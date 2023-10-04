@@ -1,2 +1,2 @@
-# Sales_Analytics_Dashboard-
+# Sales_Analytics_Dashboard
 Superstore Sales Analytics Dashboard using Tableau
