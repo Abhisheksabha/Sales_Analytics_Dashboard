@@ -9,8 +9,8 @@ Superstore Sales Analytics Dashboard using Tableau
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
-Tableau Dashboard
-[](https://public.tableau.com/views/SuperstoreSalesAnalytics_17386748813330/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Dashboard Link
+[Tableau Dashboard](https://public.tableau.com/views/SuperstoreSalesAnalytics_17386748813330/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
