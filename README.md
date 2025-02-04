@@ -9,6 +9,11 @@ Superstore Sales Analytics Dashboard using Tableau
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
+Tableau Dashboard
+[](https://public.tableau.com/views/SuperstoreSalesAnalytics_17386748813330/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
 Objectives : To gain actionable insights into sales performance, customer behavior, and inventory management to optimize decision-making and drive business growth.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
